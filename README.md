@@ -13,7 +13,9 @@
 Open **Windows 10 Settings**. Then navigate to **Update & Settings** section. Click **For Developers** tab. Choose the **Developer mode** option.
 ![Image of Yaktocat](https://www.automatetheplanet.com/wp-content/uploads/2017/08/enable-developer-mode-windows-10.png)
 
-##Download WinAppDriver
+
+
+## Download WinAppDriver
 
 **Download** WinAppDriver from [https://github.com/microsoft/WinAppDriver/releases](https://github.com/microsoft/WinAppDriver/releases)
 or download it from the repository [https://github.com/enarbona/AppiumTest/blob/master/AppiumTest/WebDriver/WindowsApplicationDriver.msi](https://github.com/enarbona/AppiumTest/blob/master/AppiumTest/WebDriver/WindowsApplicationDriver.msi)
